@@ -1,0 +1,2 @@
+FLASK_APP=thor_pred.py
+FLASK_ENV=development
